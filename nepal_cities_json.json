@@ -1,0 +1,1168 @@
+{
+  "metropolitan_cities": [
+    {
+      "name_en": "Kathmandu",
+      "name_np": "काठमाडौँ"
+    },
+    {
+      "name_en": "Pokhara",
+      "name_np": "पोखरा"
+    },
+    {
+      "name_en": "Bharatpur",
+      "name_np": "भरतपुर"
+    },
+    {
+      "name_en": "Lalitpur",
+      "name_np": "ललितपुर"
+    },
+    {
+      "name_en": "Birgunj",
+      "name_np": "वीरगञ्ज"
+    },
+    {
+      "name_en": "Biratnagar",
+      "name_np": "विराटनगर"
+    }
+  ],
+  "sub_metropolitan_cities": [
+    {
+      "name_en": "Ghorahi",
+      "name_np": "घोराही"
+    },
+    {
+      "name_en": "Dhangadhi",
+      "name_np": "धनगढी"
+    },
+    {
+      "name_en": "Itahari",
+      "name_np": "इटहरी"
+    },
+    {
+      "name_en": "Janakpur",
+      "name_np": "जनकपुर"
+    },
+    {
+      "name_en": "Butwal",
+      "name_np": "बुटवल"
+    },
+    {
+      "name_en": "Hetauda",
+      "name_np": "हेटौडा"
+    },
+    {
+      "name_en": "Tulsipur",
+      "name_np": "तुल्सिपुर"
+    },
+    {
+      "name_en": "Dharan",
+      "name_np": "धरान"
+    },
+    {
+      "name_en": "Nepalgunj",
+      "name_np": "नेपालगञ्ज"
+    },
+    {
+      "name_en": "Kalaiya",
+      "name_np": "कलैया"
+    },
+    {
+      "name_en": "Jitpursimara",
+      "name_np": "जीतपुरसिमरा"
+    }
+  ],
+  "municipalities": [
+    {
+      "name_en": "Budhanilkantha",
+      "name_np": "बुढानिलकण्ठ"
+    },
+    {
+      "name_en": "Birendranagar",
+      "name_np": "वीरेन्द्रनगर"
+    },
+    {
+      "name_en": "Tarakeshwar",
+      "name_np": "तारकेश्वर"
+    },
+    {
+      "name_en": "Tilottama",
+      "name_np": "तिलोत्तमा"
+    },
+    {
+      "name_en": "Gokarneshwar",
+      "name_np": "गोकर्णेश्वर"
+    },
+    {
+      "name_en": "Suryabinayak",
+      "name_np": "सूर्यविनायक"
+    },
+    {
+      "name_en": "Chandragiri",
+      "name_np": "चन्द्रागिरी"
+    },
+    {
+      "name_en": "Tokha",
+      "name_np": "टोखा"
+    },
+    {
+      "name_en": "Mechinagar",
+      "name_np": "मेचीनगर"
+    },
+    {
+      "name_en": "Kageshwari-Manohara",
+      "name_np": "कागेश्वरी मनोहरा"
+    },
+    {
+      "name_en": "Mahalaxmi",
+      "name_np": "महालक्ष्मी"
+    },
+    {
+      "name_en": "Bhimdatta",
+      "name_np": "भीमदत्त"
+    },
+    {
+      "name_en": "Sundar Haraincha",
+      "name_np": "सुन्दरहरैंचा"
+    },
+    {
+      "name_en": "Madhyapur Thimi",
+      "name_np": "मध्यपुर थिमी"
+    },
+    {
+      "name_en": "Birtamod",
+      "name_np": "बिर्तामोड"
+    },
+    {
+      "name_en": "Nagarjun",
+      "name_np": "नागार्जुन"
+    },
+    {
+      "name_en": "Damak",
+      "name_np": "दमक"
+    },
+    {
+      "name_en": "Triyuga",
+      "name_np": "त्रियुगा"
+    },
+    {
+      "name_en": "Lahan",
+      "name_np": "लहान"
+    },
+    {
+      "name_en": "Kohalpur",
+      "name_np": "कोहलपुर"
+    },
+    {
+      "name_en": "Godawari",
+      "name_np": "गोदावरी"
+    },
+    {
+      "name_en": "Banganga",
+      "name_np": "बाणगंगा"
+    },
+    {
+      "name_en": "Siraha",
+      "name_np": "सिरहा"
+    },
+    {
+      "name_en": "Barahachhetra",
+      "name_np": "बराहक्षेत्र"
+    },
+    {
+      "name_en": "Lamki Chuha",
+      "name_np": "लम्की चुहा"
+    },
+    {
+      "name_en": "Ratnanagar",
+      "name_np": "रत्ननगर"
+    },
+    {
+      "name_en": "Tikapur",
+      "name_np": "टिकापुर"
+    },
+    {
+      "name_en": "Kapilvastu",
+      "name_np": "कपिलवस्तु"
+    },
+    {
+      "name_en": "Changunarayan",
+      "name_np": "चाँगुनारायण"
+    },
+    {
+      "name_en": "Lumbini Sanskritik",
+      "name_np": "लुम्बिनी सांस्कृतिक"
+    },
+    {
+      "name_en": "Kawasoti",
+      "name_np": "कावासोती"
+    },
+    {
+      "name_en": "Ghodaghodi",
+      "name_np": "घोडाघोडी"
+    },
+    {
+      "name_en": "Shivaraj",
+      "name_np": "शिवराज"
+    },
+    {
+      "name_en": "Arjundhara",
+      "name_np": "अर्जुनधारा"
+    },
+    {
+      "name_en": "Chandrapur",
+      "name_np": "चन्द्रपुर"
+    },
+    {
+      "name_en": "Belbari",
+      "name_np": "बेलवारी"
+    },
+    {
+      "name_en": "Kirtipur",
+      "name_np": "किर्तिपुर"
+    },
+    {
+      "name_en": "Barahathawa",
+      "name_np": "बरहथवा"
+    },
+    {
+      "name_en": "Gaindakot",
+      "name_np": "गैडाकोट"
+    },
+    {
+      "name_en": "Bhaktapur",
+      "name_np": "भक्तपुर"
+    },
+    {
+      "name_en": "Vyas",
+      "name_np": "व्यास"
+    },
+    {
+      "name_en": "Sainamaina",
+      "name_np": "सैनामैना"
+    },
+    {
+      "name_en": "Bardaghat",
+      "name_np": "बर्दघाट"
+    },
+    {
+      "name_en": "Buddhabhumi",
+      "name_np": "बुद्धभूमी"
+    },
+    {
+      "name_en": "Inaruwa",
+      "name_np": "ईनरुवा"
+    },
+    {
+      "name_en": "Gulariya",
+      "name_np": "गुलरिया"
+    },
+    {
+      "name_en": "Siddharthanagar",
+      "name_np": "सिद्धार्थनगर"
+    },
+    {
+      "name_en": "Bardibas",
+      "name_np": "बर्दिबास"
+    },
+    {
+      "name_en": "Shivasatakshi",
+      "name_np": "शिवसताक्षि"
+    },
+    {
+      "name_en": "Barbardiya",
+      "name_np": "बारबर्दिया"
+    },
+    {
+      "name_en": "Gaushala",
+      "name_np": "गौशाला"
+    },
+    {
+      "name_en": "Devdaha",
+      "name_np": "देवदह"
+    },
+    {
+      "name_en": "Pathari Shanischare",
+      "name_np": "पथरी शनिश्चरे"
+    },
+    {
+      "name_en": "Sunawal",
+      "name_np": "सुनवल"
+    },
+    {
+      "name_en": "Krishnapur",
+      "name_np": "कृष्णपुर"
+    },
+    {
+      "name_en": "Kamalamai",
+      "name_np": "कमलामाई"
+    },
+    {
+      "name_en": "Bhadrapur",
+      "name_np": "भद्रपुर"
+    },
+    {
+      "name_en": "Urlabari",
+      "name_np": "उर्लावारी"
+    },
+    {
+      "name_en": "Rajbiraj",
+      "name_np": "राजविराज"
+    },
+    {
+      "name_en": "Dudhauli",
+      "name_np": "दुधौली"
+    },
+    {
+      "name_en": "Krishnanagar",
+      "name_np": "कृष्णनगर"
+    },
+    {
+      "name_en": "Ishwarpur",
+      "name_np": "ईश्वरपूर"
+    },
+    {
+      "name_en": "Banepa",
+      "name_np": "बनेपा"
+    },
+    {
+      "name_en": "Khairhani",
+      "name_np": "खैरहनी"
+    },
+    {
+      "name_en": "Rapti",
+      "name_np": "राप्ती"
+    },
+    {
+      "name_en": "Lalbandi",
+      "name_np": "लालबन्दी"
+    },
+    {
+      "name_en": "Duhabi",
+      "name_np": "दुहवी"
+    },
+    {
+      "name_en": "Maharajganj",
+      "name_np": "महाराजगंज"
+    },
+    {
+      "name_en": "Gauriganga",
+      "name_np": "गौरीगंगा"
+    },
+    {
+      "name_en": "Ramgram",
+      "name_np": "रामग्राम"
+    },
+    {
+      "name_en": "Golbazar",
+      "name_np": "गोलबजार"
+    },
+    {
+      "name_en": "Jaleshwar",
+      "name_np": "जलेश्वर"
+    },
+    {
+      "name_en": "Ramdhuni",
+      "name_np": "रामधुनी"
+    },
+    {
+      "name_en": "Bansgadhi",
+      "name_np": "बासगढी"
+    },
+    {
+      "name_en": "Sabaila",
+      "name_np": "सवैला"
+    },
+    {
+      "name_en": "Punarbas",
+      "name_np": "पुनर्वास"
+    },
+    {
+      "name_en": "Ratuwamai",
+      "name_np": "रतुवामाई"
+    },
+    {
+      "name_en": "Garuda",
+      "name_np": "गरुडा"
+    },
+    {
+      "name_en": "Rajapur",
+      "name_np": "राजापुर"
+    },
+    {
+      "name_en": "Gauradaha",
+      "name_np": "गौरादह"
+    },
+    {
+      "name_en": "Katari",
+      "name_np": "कटारी"
+    },
+    {
+      "name_en": "Mirchaiya",
+      "name_np": "मिर्चैया"
+    },
+    {
+      "name_en": "Mahagadhimai",
+      "name_np": "महागढीमाई"
+    },
+    {
+      "name_en": "Bidur",
+      "name_np": "विदुर"
+    },
+    {
+      "name_en": "Lamahi",
+      "name_np": "लमही"
+    },
+    {
+      "name_en": "Kalyanpur",
+      "name_np": "कल्याणपुर"
+    },
+    {
+      "name_en": "Nilkantha",
+      "name_np": "निलकण्ठ"
+    },
+    {
+      "name_en": "Kanchanrup",
+      "name_np": "कञ्चनरूप"
+    },
+    {
+      "name_en": "Devchuli",
+      "name_np": "देवचुली"
+    },
+    {
+      "name_en": "Bedkot",
+      "name_np": "वेदकोट"
+    },
+    {
+      "name_en": "Rangeli",
+      "name_np": "रंगेली"
+    },
+    {
+      "name_en": "Baglung",
+      "name_np": "बागलुङ"
+    },
+    {
+      "name_en": "Sunawarshi",
+      "name_np": "सुनवर्षी"
+    },
+    {
+      "name_en": "Shuklagandaki",
+      "name_np": "शुक्लागण्डकी"
+    },
+    {
+      "name_en": "Bhangaha",
+      "name_np": "भँगाहा"
+    },
+    {
+      "name_en": "Simraungadh",
+      "name_np": "सिम्रोनगढ"
+    },
+    {
+      "name_en": "Suryodaya",
+      "name_np": "सूर्योदय"
+    },
+    {
+      "name_en": "Malangwa",
+      "name_np": "मलङ्गवा"
+    },
+    {
+      "name_en": "Godaita",
+      "name_np": "गोडैता"
+    },
+    {
+      "name_en": "Rajpur",
+      "name_np": "राजपुर"
+    },
+    {
+      "name_en": "Gujara",
+      "name_np": "गुजरा"
+    },
+    {
+      "name_en": "Shuklaphanta",
+      "name_np": "शुक्लाफाँटा"
+    },
+    {
+      "name_en": "Belauri",
+      "name_np": "बेलौरी"
+    },
+    {
+      "name_en": "Shahidnagar",
+      "name_np": "शहिद नगर"
+    },
+    {
+      "name_en": "Chaudandigadhi",
+      "name_np": "चौदण्डीगढी"
+    },
+    {
+      "name_en": "Bhajani",
+      "name_np": "भजनी"
+    },
+    {
+      "name_en": "Dhangadimai",
+      "name_np": "धनगढीमाई"
+    },
+    {
+      "name_en": "Kankai",
+      "name_np": "कन्काई"
+    },
+    {
+      "name_en": "Hanumannagar Kankalini",
+      "name_np": "हनुमाननगर कंकालिनी"
+    },
+    {
+      "name_en": "Khadak",
+      "name_np": "खडक"
+    },
+    {
+      "name_en": "Gorkha",
+      "name_np": "गोरखा"
+    },
+    {
+      "name_en": "Manara Shiswa",
+      "name_np": "मनरा शिसवा"
+    },
+    {
+      "name_en": "Kalika",
+      "name_np": "कालिका"
+    },
+    {
+      "name_en": "Dhanushadham",
+      "name_np": "धनुषाधाम"
+    },
+    {
+      "name_en": "Ishnath",
+      "name_np": "ईशनाथ"
+    },
+    {
+      "name_en": "Paunauti",
+      "name_np": "पनौती"
+    },
+    {
+      "name_en": "Kolhabi",
+      "name_np": "कोल्हवी"
+    },
+    {
+      "name_en": "Chhireshwarnath",
+      "name_np": "क्षिरेश्वरनाथ"
+    },
+    {
+      "name_en": "Belaka",
+      "name_np": "वेलका"
+    },
+    {
+      "name_en": "Tansen",
+      "name_np": "तानसेन"
+    },
+    {
+      "name_en": "Madhuwan",
+      "name_np": "मधुवन"
+    },
+    {
+      "name_en": "Waling",
+      "name_np": "वालिङ"
+    },
+    {
+      "name_en": "Ilam",
+      "name_np": "इलाम"
+    },
+    {
+      "name_en": "Hariwan",
+      "name_np": "हरिवन"
+    },
+    {
+      "name_en": "Brindaban",
+      "name_np": "बृन्दावन"
+    },
+    {
+      "name_en": "Balawa",
+      "name_np": "बलवा"
+    },
+    {
+      "name_en": "Surunga",
+      "name_np": "सुरुङ्गा"
+    },
+    {
+      "name_en": "Thakurbaba",
+      "name_np": "ठाकुरबाबा"
+    },
+    {
+      "name_en": "Gadhimai",
+      "name_np": "गढीमाई"
+    },
+    {
+      "name_en": "Mithila",
+      "name_np": "मिथिला"
+    },
+    {
+      "name_en": "Phidim",
+      "name_np": "फिदिम"
+    },
+    {
+      "name_en": "Gurbhakot",
+      "name_np": "गुर्भाकोट"
+    },
+    {
+      "name_en": "Bheriganga",
+      "name_np": "भेरीगंगा"
+    },
+    {
+      "name_en": "Balara",
+      "name_np": "बलरा"
+    },
+    {
+      "name_en": "Dakneshwari",
+      "name_np": "दक्नेश्वारी"
+    },
+    {
+      "name_en": "Bagmati",
+      "name_np": "बागमती"
+    },
+    {
+      "name_en": "Bodebarsain",
+      "name_np": "बोदेबरसाईन"
+    },
+    {
+      "name_en": "Katahariya",
+      "name_np": "कटहरीया"
+    },
+    {
+      "name_en": "Loharpatti",
+      "name_np": "लोहरपट्टी"
+    },
+    {
+      "name_en": "Paroha",
+      "name_np": "परोहा"
+    },
+    {
+      "name_en": "Hansapur",
+      "name_np": "हंसपुर"
+    },
+    {
+      "name_en": "Kamala",
+      "name_np": "कमला"
+    },
+    {
+      "name_en": "Kabilasi",
+      "name_np": "कविलासी"
+    },
+    {
+      "name_en": "Ganeshman Charanath",
+      "name_np": "गणेशमान चारनाथ"
+    },
+    {
+      "name_en": "Bahudarmai",
+      "name_np": "बहुदरमाई"
+    },
+    {
+      "name_en": "Haripur",
+      "name_np": "हरिपुर"
+    },
+    {
+      "name_en": "Diktel Rupakot Majhuwagadhi",
+      "name_np": "रुपाकोट–मजुवागढी"
+    },
+    {
+      "name_en": "Dodhara Chandani",
+      "name_np": "दोधारा चादँनी"
+    },
+    {
+      "name_en": "Bhanu",
+      "name_np": "भानु"
+    },
+    {
+      "name_en": "Chautara Sangachokgadhi",
+      "name_np": "चौतारा साँगाचोकगढी"
+    },
+    {
+      "name_en": "Sandhikharka",
+      "name_np": "सन्धिखर्क"
+    },
+    {
+      "name_en": "Phatuwa Bijayapur",
+      "name_np": "फतुवाबिजयपुर"
+    },
+    {
+      "name_en": "Pyuthan",
+      "name_np": "प्यूठान"
+    },
+    {
+      "name_en": "Sukhipur",
+      "name_np": "सुखीपुर"
+    },
+    {
+      "name_en": "Putalibazar",
+      "name_np": "पुतलीबजार"
+    },
+    {
+      "name_en": "Parsagadhi",
+      "name_np": "पर्सागढी"
+    },
+    {
+      "name_en": "Melamchi",
+      "name_np": "मेलम्ची"
+    },
+    {
+      "name_en": "Madhav Narayan",
+      "name_np": "माधव नारायण"
+    },
+    {
+      "name_en": "Rampur",
+      "name_np": "रामपुर"
+    },
+    {
+      "name_en": "Pacharauta",
+      "name_np": "पचरौता"
+    },
+    {
+      "name_en": "Gaur",
+      "name_np": "गौर"
+    },
+    {
+      "name_en": "Manthali",
+      "name_np": "मन्थली"
+    },
+    {
+      "name_en": "Shambhunath",
+      "name_np": "शम्भुनाथ"
+    },
+    {
+      "name_en": "Boudhimai",
+      "name_np": "बौधीमाई"
+    },
+    {
+      "name_en": "Dullu",
+      "name_np": "दुल्लु"
+    },
+    {
+      "name_en": "Thaha",
+      "name_np": "थाहा"
+    },
+    {
+      "name_en": "Haripurwa",
+      "name_np": "हरिपुर्वा"
+    },
+    {
+      "name_en": "Dewahi Gonahi",
+      "name_np": "देवाही गोनाही"
+    },
+    {
+      "name_en": "Karjanha",
+      "name_np": "कर्जन्हा"
+    },
+    {
+      "name_en": "Madi",
+      "name_np": "माडी"
+    },
+    {
+      "name_en": "Puchaudi",
+      "name_np": "पुर्चौडी"
+    },
+    {
+      "name_en": "Mithila Bihari",
+      "name_np": "मिथिला बिहारी"
+    },
+    {
+      "name_en": "Besisahar",
+      "name_np": "बेसीशहर"
+    },
+    {
+      "name_en": "Letang",
+      "name_np": "लेटाङ"
+    },
+    {
+      "name_en": "Kushma",
+      "name_np": "कुश्मा"
+    },
+    {
+      "name_en": "Nagarain",
+      "name_np": "नगराईन"
+    },
+    {
+      "name_en": "Bheri",
+      "name_np": "भेरी"
+    },
+    {
+      "name_en": "Chhedagad",
+      "name_np": "छेडागाड"
+    },
+    {
+      "name_en": "Bideha",
+      "name_np": "विदेह"
+    },
+    {
+      "name_en": "Sitganga",
+      "name_np": "सितगंगा"
+    },
+    {
+      "name_en": "Nijgadh",
+      "name_np": "निजगढ"
+    },
+    {
+      "name_en": "Pokhariya",
+      "name_np": "पोखरिया"
+    },
+    {
+      "name_en": "Palungtar",
+      "name_np": "पालुङटार"
+    },
+    {
+      "name_en": "Aurahi",
+      "name_np": "औरही"
+    },
+    {
+      "name_en": "Ramgopalpur",
+      "name_np": "रामगोपालपुर"
+    },
+    {
+      "name_en": "Matihani",
+      "name_np": "मटिहानी"
+    },
+    {
+      "name_en": "Dhankuta",
+      "name_np": "धनकुटा"
+    },
+    {
+      "name_en": "Aathabiskot",
+      "name_np": "आठविसकोट"
+    },
+    {
+      "name_en": "Panchapuri",
+      "name_np": "पञ्चपुरी"
+    },
+    {
+      "name_en": "Rajdevi",
+      "name_np": "राजदेवी"
+    },
+    {
+      "name_en": "Parshuram",
+      "name_np": "परशुराम"
+    },
+    {
+      "name_en": "Khandbari",
+      "name_np": "खादँवारी"
+    },
+    {
+      "name_en": "Panchkhal",
+      "name_np": "पाँचखाल"
+    },
+    {
+      "name_en": "Rolpa",
+      "name_np": "रोल्पा"
+    },
+    {
+      "name_en": "Belkotgadhi",
+      "name_np": "बेलकोटगढी"
+    },
+    {
+      "name_en": "Bhimeshwar",
+      "name_np": "भीमेश्वर"
+    },
+    {
+      "name_en": "Sharada",
+      "name_np": "शारदा"
+    },
+    {
+      "name_en": "Musikot",
+      "name_np": "मुसिकोट"
+    },
+    {
+      "name_en": "Bagchaur",
+      "name_np": "बागचौर"
+    },
+    {
+      "name_en": "Dipayal Silgadhi",
+      "name_np": "दिपायल सिलगढी"
+    },
+    {
+      "name_en": "Bungal",
+      "name_np": "बुंगल"
+    },
+    {
+      "name_en": "Dhulikhel",
+      "name_np": "धुलिखेल"
+    },
+    {
+      "name_en": "Bangad Kupinde",
+      "name_np": "बनगाड कुपिण्डे"
+    },
+    {
+      "name_en": "Beni",
+      "name_np": "बेनी"
+    },
+    {
+      "name_en": "Maulapur",
+      "name_np": "मौलापुर"
+    },
+    {
+      "name_en": "Swargadwari",
+      "name_np": "स्वर्गद्वारी"
+    },
+    {
+      "name_en": "Lekbeshi",
+      "name_np": "लेकबेशी"
+    },
+    {
+      "name_en": "Dasharathchand",
+      "name_np": "दशरथचन्द"
+    },
+    {
+      "name_en": "Resunga",
+      "name_np": "रेसुङ्गा"
+    },
+    {
+      "name_en": "Aathabis",
+      "name_np": "आठबीस"
+    },
+    {
+      "name_en": "Galyang",
+      "name_np": "गल्याङ"
+    },
+    {
+      "name_en": "Deumai",
+      "name_np": "देउमाई"
+    },
+    {
+      "name_en": "Mai",
+      "name_np": "माई"
+    },
+    {
+      "name_en": "Galkot",
+      "name_np": "गल्कोट"
+    },
+    {
+      "name_en": "Shikhar",
+      "name_np": "शिखर"
+    },
+    {
+      "name_en": "Mandan Deupur",
+      "name_np": "मण्डनदेउपुर"
+    },
+    {
+      "name_en": "Dhorpatan",
+      "name_np": "ढोरपाटन"
+    },
+    {
+      "name_en": "Shadananda",
+      "name_np": "षडानन्द"
+    },
+    {
+      "name_en": "Shankharapur",
+      "name_np": "शङ्खरापुर"
+    },
+    {
+      "name_en": "Bhimad",
+      "name_np": "भिमाद"
+    },
+    {
+      "name_en": "Patan",
+      "name_np": "पाटन"
+    },
+    {
+      "name_en": "Dhunibeshi",
+      "name_np": "धुनीबेंशी"
+    },
+    {
+      "name_en": "Chaurjahari",
+      "name_np": "चौरजहारी"
+    },
+    {
+      "name_en": "Nalgad",
+      "name_np": "नलगाड"
+    },
+    {
+      "name_en": "Phungling",
+      "name_np": "फुङलिङ"
+    },
+    {
+      "name_en": "Bhumikasthan",
+      "name_np": "भूमिकास्थान"
+    },
+    {
+      "name_en": "Siddhicharan",
+      "name_np": "सिद्दिचरण"
+    },
+    {
+      "name_en": "Halesi Tuwachung",
+      "name_np": "हलेसी तुवाचुङ"
+    },
+    {
+      "name_en": "Sundarbazar",
+      "name_np": "सुन्दरबजार"
+    },
+    {
+      "name_en": "Chainpur",
+      "name_np": "चैनपुर"
+    },
+    {
+      "name_en": "Chamunda Bindrasaini",
+      "name_np": "चामुण्डा विन्द्रासैनी"
+    },
+    {
+      "name_en": "Mangalsen",
+      "name_np": "मंगलसेन"
+    },
+    {
+      "name_en": "Dakshinkali",
+      "name_np": "दक्षिणकाली"
+    },
+    {
+      "name_en": "Namobuddha",
+      "name_np": "नमोबुद्ध"
+    },
+    {
+      "name_en": "Narayan",
+      "name_np": "नारायण"
+    },
+    {
+      "name_en": "Panchadewal Binayak",
+      "name_np": "पञ्चदेवल विनायक"
+    },
+    {
+      "name_en": "Bhojpur",
+      "name_np": "भोजपुर"
+    },
+    {
+      "name_en": "Sanphebagar",
+      "name_np": "साफेबगर"
+    },
+    {
+      "name_en": "Solu Dudhkunda",
+      "name_np": "सोलुदुधकुण्ड"
+    },
+    {
+      "name_en": "Ramechhap",
+      "name_np": "रामेछाप"
+    },
+    {
+      "name_en": "Jaimini",
+      "name_np": "जैमिनी"
+    },
+    {
+      "name_en": "Chhayanath Rara",
+      "name_np": "छायाँनाथ रारा"
+    },
+    {
+      "name_en": "Amargadhi",
+      "name_np": "अमरगढी"
+    },
+    {
+      "name_en": "Barhabise",
+      "name_np": "बाह्रविसे"
+    },
+    {
+      "name_en": "Mahakali",
+      "name_np": "महाकाली"
+    },
+    {
+      "name_en": "Saptakoshi",
+      "name_np": "सप्तकोशी"
+    },
+    {
+      "name_en": "Chapakot",
+      "name_np": "चापाकोट"
+    },
+    {
+      "name_en": "Bhirkot",
+      "name_np": "भिरकोट"
+    },
+    {
+      "name_en": "Khandachakra",
+      "name_np": "खाँडाचक्र"
+    },
+    {
+      "name_en": "Mahalaxmi",
+      "name_np": "महालक्ष्मी"
+    },
+    {
+      "name_en": "Madhya Nepal",
+      "name_np": "मध्यनेपाल"
+    },
+    {
+      "name_en": "Jaya Prithvi",
+      "name_np": "जयपृथ्वी"
+    },
+    {
+      "name_en": "Shailyashikhar",
+      "name_np": "शैल्यशिखर"
+    },
+    {
+      "name_en": "Chandannath",
+      "name_np": "चन्दननाथ"
+    },
+    {
+      "name_en": "Kamalbazar",
+      "name_np": "कमलबजार"
+    },
+    {
+      "name_en": "Melauli",
+      "name_np": "मेलौली"
+    },
+    {
+      "name_en": "Phalebas",
+      "name_np": "फलेवास"
+    },
+    {
+      "name_en": "Budhiganga",
+      "name_np": "बुढीगंगा"
+    },
+    {
+      "name_en": "Budhinanda",
+      "name_np": "बुढीनन्दा"
+    },
+    {
+      "name_en": "Pakhribas",
+      "name_np": "पाख्रिवास"
+    },
+    {
+      "name_en": "Myanglung",
+      "name_np": "म्याङलुङ"
+    },
+    {
+      "name_en": "Badimalika",
+      "name_np": "बडीमालिका"
+    },
+    {
+      "name_en": "Tribeni",
+      "name_np": "त्रिवेणी"
+    },
+    {
+      "name_en": "Raskot",
+      "name_np": "रास्कोट"
+    },
+    {
+      "name_en": "Rainas",
+      "name_np": "रार्इनास"
+    },
+    {
+      "name_en": "Panchkhapan",
+      "name_np": "पाँचखपन"
+    },
+    {
+      "name_en": "Tilagupha",
+      "name_np": "तिलागुफा"
+    },
+    {
+      "name_en": "Jiri",
+      "name_np": "जिरी"
+    },
+    {
+      "name_en": "Dharmadevi",
+      "name_np": "धर्मदेवी"
+    },
+    {
+      "name_en": "Laligurans",
+      "name_np": "लालिगुराँस"
+    },
+    {
+      "name_en": "Madi",
+      "name_np": "मादी"
+    },
+    {
+      "name_en": "Tripura Sundari",
+      "name_np": "त्रिपुरासुन्दरी"
+    },
+    {
+      "name_en": "Thuli Bheri",
+      "name_np": "ठूली भेरी"
+    }
+  ]
+}
