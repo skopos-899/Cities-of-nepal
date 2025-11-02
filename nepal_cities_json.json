@@ -1,6 +1,5 @@
 {
-  "metropolitan_cities": [
-    {
+  
       "name_en": "Kathmandu",
       "name_np": "काठमाडौँ"
     },
@@ -23,9 +22,7 @@
     {
       "name_en": "Biratnagar",
       "name_np": "विराटनगर"
-    }
-  ],
-  "sub_metropolitan_cities": [
+    },
     {
       "name_en": "Ghorahi",
       "name_np": "घोराही"
@@ -69,9 +66,7 @@
     {
       "name_en": "Jitpursimara",
       "name_np": "जीतपुरसिमरा"
-    }
-  ],
-  "municipalities": [
+    },
     {
       "name_en": "Budhanilkantha",
       "name_np": "बुढानिलकण्ठ"
